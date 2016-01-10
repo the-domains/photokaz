@@ -1,7 +1,7 @@
 name: PhotoKaz
 favicon: null
-layout_spectrum: 0.9395381477661431
-typography_spectrum: 0.26300380495376885
+layout_spectrum: 1
+typography_spectrum: 0.42988
 title: Mike Heller Photography
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.06989987404085696
-  lightness: 0.0865904288366437
-  saturation: 0.06603663065470755
+    - '#0100a6'
+    - '#fafafa'
+    - '#584827'
+    - '#8a7c4d'
+    - '#80b658'
+  brandStrength: 0
+  lightness: 1
+  saturation: 0.5
   rhythmicContrast: 0.4949577960651368
 purpose: []
